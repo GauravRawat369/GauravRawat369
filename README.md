@@ -1,5 +1,4 @@
-[![GauravRawat369's GitHub | Topics Over Time](https://stats.quira.sh/GauravRawat369/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369) 
-[![GauravRawat369's GitHub | Languages Over Time](https://stats.quira.sh/GauravRawat369/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369) 
+
 [![GauravRawat369's GitHub | Stats](https://stats.quira.sh/GauravRawat369/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369)
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
 <h3 align="center">Full Stack Developer | Versatile Experience in Computer Science | Aspiring Solution Architect</h3>
