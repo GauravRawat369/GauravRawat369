@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
 <h3 align="center">Full Stack Developer | Versatile Experience in Computer Science | Aspiring Solution Architect</h3>
-[![GauravRawat369's GitHub | Topics Over Time](https://stats.quira.sh/GauravRawat369/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369)
-[![GauravRawat369's GitHub | Languages Over Time](https://stats.quira.sh/GauravRawat369/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369)
+[![GauravRawat369's GitHub | Topics Over Time](https://stats.quira.sh/GauravRawat369/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369) 
+[![GauravRawat369's GitHub | Languages Over Time](https://stats.quira.sh/GauravRawat369/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369) 
 [![GauravRawat369's GitHub | Stats](https://stats.quira.sh/GauravRawat369/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravrawat369&label=Profile%20views&color=0e75b6&style=flat" alt="gauravrawat369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravrawat369" alt="gauravrawat369" /></a> </p>
