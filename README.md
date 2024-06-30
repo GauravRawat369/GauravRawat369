@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
 <h3 align="center">Full Stack Developer | Versatile Experience in Computer Science | Aspiring Solution Architect</h3>
-<div style="background-color: black; color: white; width: 100%;">
-    <img src="https://myreadme.vercel.app/api/embed/GauravRawat369?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;" />
+<div style="width: 100%;">
+    <img src="https://myreadme.vercel.app/api/embed/GauravRawat369?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="background-color: black; color: white; width: 100%;" />
 </div>
 
 
