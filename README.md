@@ -2,7 +2,7 @@
 [![GauravRawat369's GitHub | Stats](https://stats.quira.sh/GauravRawat369/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GauravRawat369)
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
 <h3 align="center">Full Stack Developer | Versatile Experience in Computer Science | Aspiring Solution Architect</h3>
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/GauravRawat369?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravrawat369&label=Profile%20views&color=0e75b6&style=flat" alt="gauravrawat369" /> </p>
 
