@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
 <h3 align="center">Full Stack Developer | Versatile Experience in Computer Science | Aspiring Solution Architect</h3>
-<div style="width: 100%;">
-    <img src="https://myreadme.vercel.app/api/embed/GauravRawat369?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="background-color: black; color: white; width: 100%;" />
-</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravrawat369&label=Profile%20views&color=0e75b6&style=flat" alt="gauravrawat369" /> </p>
