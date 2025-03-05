@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **yashu.rawat1903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17ZyyByhrE3UOs6yQkZf_U1bpS_L-BJfb/view](https://drive.google.com/file/d/17ZyyByhrE3UOs6yQkZf_U1bpS_L-BJfb/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
