@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
-<h3 align="center">Full Stack Developer | Versatile Experience in Computer Science | Aspiring Solution Architect</h3>
+<h3 align="center">Full Stack Developer | Versatile Experience in Computer Science </h3>
 
 
 
