@@ -1,7 +1,7 @@
-<img width="100%" src="assets/header.svg" alt="Gaurav Rawat — Software Engineer · Figuring out code, systems, and open source." />
+<img width="100%" src="assets/header.svg" alt="Gaurav Rawat — Figuring out code, systems, and open source." />
 
 <p align="center">
-  <a href="https://github.com/GauravRawat369"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Rawat;I+solve+business+problems+via+code;Software+Engineer+%40+Juspay;Rust+%7C+Payments+Infrastructure;Building+smart+payment+routing;System+design+enthusiast" alt="Typing SVG" /></a>
+  <a href="https://github.com/GauravRawat369"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Rawat;Figuring+out+code%2C+systems%2C+and+open+source.;Software+Engineer+%40+Juspay;Rust+%7C+Payments+Infrastructure;Building+smart+payment+routing;System+design+enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
 ---
 
 ### 🙋‍♂️ About me
-
-> **I solve business problems via code.** Give me a fuzzy business goal — "route payments cheaper", "keep chat snappy for 100k users" — and I'll turn it into a system that ships and holds up under load.
 
 - 💼 Engineer at **[Juspay](https://github.com/juspay)** — I work on the open-source **[Decision Engine](https://github.com/juspay/decision-engine)**, a smart payment-routing service (success-rate, cost & volume-commitment based routing), and contribute to **[Hyperswitch](https://github.com/juspay/hyperswitch)**
 - 🦀 Writing production **Rust** daily; **JavaScript / React / Node** on the front and full-stack side
