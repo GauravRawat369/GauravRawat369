@@ -1,4 +1,4 @@
-<img width="100%" src="assets/header.svg" alt="Gaurav Rawat — Figuring out code, systems, and open source." />
+<img width="100%" src="assets/header-v2.svg" alt="Gaurav Rawat — Chasing life, learning daily, and figuring out what needs to be done" />
 
 <p align="center">
   <a href="https://github.com/GauravRawat369"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Rawat;Figuring+out+code%2C+systems%2C+and+open+source.;Software+Engineer+%40+Juspay;Rust+%7C+Payments+Infrastructure;Building+smart+payment+routing;System+design+enthusiast" alt="Typing SVG" /></a>
