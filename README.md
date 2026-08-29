@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Gaurav%20Rawat&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Rust%20%26%20Full%20Stack%20%C2%B7%20Payments%20Infrastructure&descAlignY=58&descSize=18" alt="Gaurav Rawat" />
+<img width="100%" src="assets/header.svg" alt="Gaurav Rawat — Software Engineer · I solve business problems via code" />
 
 <p align="center">
-  <a href="https://github.com/GauravRawat369"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Rawat;Software+Engineer+%40+Juspay;Rust+%7C+Payments+Infrastructure;Building+smart+payment+routing;System+design+enthusiast" alt="Typing SVG" /></a>
+  <a href="https://github.com/GauravRawat369"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Rawat;I+solve+business+problems+via+code;Software+Engineer+%40+Juspay;Rust+%7C+Payments+Infrastructure;Building+smart+payment+routing;System+design+enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -13,6 +13,8 @@
 ---
 
 ### 🙋‍♂️ About me
+
+> **I solve business problems via code.** Give me a fuzzy business goal — "route payments cheaper", "keep chat snappy for 100k users" — and I'll turn it into a system that ships and holds up under load.
 
 - 💼 Engineer at **[Juspay](https://github.com/juspay)** — I work on the open-source **[Decision Engine](https://github.com/juspay/decision-engine)**, a smart payment-routing service (success-rate, cost & volume-commitment based routing), and contribute to **[Hyperswitch](https://github.com/juspay/hyperswitch)**
 - 🦀 Writing production **Rust** daily; **JavaScript / React / Node** on the front and full-stack side
@@ -60,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gauravrawat369&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravrawat369&theme=tokyonight&utcOffset=5.5" alt="Commit times" />
 </p>
 
 ### 🐍 Contribution snake
@@ -71,4 +73,4 @@
   <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="" />
+<img width="100%" src="assets/footer.svg" alt="" />
