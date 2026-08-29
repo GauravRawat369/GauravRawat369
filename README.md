@@ -46,14 +46,14 @@
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black" alt="ClickHouse" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white" alt="AWS" />
 </p>
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravrawat369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravrawat369&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top languages" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gauravrawat369&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gauravrawat369&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top languages" />
 </p>
 
 <p align="center">
