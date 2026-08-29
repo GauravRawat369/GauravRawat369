@@ -1,28 +1,61 @@
-
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
-<h3 align="center">Full Stack Developer | Versatile Experience in Computer Science </h3>
+<h3 align="center">Software Engineer · Rust & Full Stack · Payments Infrastructure</h3>
 
+<p align="center">
+  <a href="https://twitter.com/gauravrawat369"><img src="https://img.shields.io/badge/Twitter-@gauravrawat369-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:yashu.rawat1903@gmail.com"><img src="https://img.shields.io/badge/Email-yashu.rawat1903@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gauravrawat369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravrawat369&label=Profile%20views&color=0e75b6&style=flat" alt="gauravrawat369" /> </p> 
+---
 
+### 🙋‍♂️ About me
 
-<p align="left"> <a href="https://twitter.com/gauravrawat369" target="blank"><img src="https://img.shields.io/twitter/follow/gauravrawat369?logo=twitter&style=for-the-badge" alt="gauravrawat369" /></a> </p>
+- 💼 Engineer at **[Juspay](https://github.com/juspay)** — I work on the open-source **[Decision Engine](https://github.com/juspay/decision-engine)**, a smart payment-routing service (success-rate, cost & volume-commitment based routing), and contribute to **[Hyperswitch](https://github.com/juspay/hyperswitch)**
+- 🦀 Writing production **Rust** daily; **JavaScript / React / Node** on the front and full-stack side
+- 🌱 Deep into **system design & scalability** — distributed systems, real-time messaging, and adaptive algorithms (multi-armed bandits) for routing decisions
+- 🏆 ⭐⭐⭐ on **CodeChef**, active on **Codeforces**, 600+ DSA problems solved on LeetCode & GFG
+- 🎓 Computer Science @ **KIIT**, Bhubaneswar
+- 💬 Ask me about **payment routing, Rust, system design, or competitive programming**
 
-- 🔭 I’m currently working on [Scalable Chat Application](https://github.com/GauravRawat369/Scalable-chat-application)
+### 🚀 Featured projects
 
-- 🌱 I’m currently learning **System Design**
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Non-Stationary-MAB](https://github.com/GauravRawat369/Non-Stationary-MAB) | Adaptive payment-connector routing using non-stationary multi-armed bandits (discounted Thompson Sampling, sliding-window UCB) | Rust |
+| [Testing-framework](https://github.com/GauravRawat369/Testing-framework) | Simulation harness for payment-routing algorithms — generates traffic, routes it through PSP configs, records outcomes, and computes metrics | Rust |
+| [Scalable-chat-application](https://github.com/GauravRawat369/Scalable-chat-application) | Horizontally scalable real-time chat — WebSockets, Redis Pub/Sub, JWT auth, batched DB writes, read replicas, AWS Elastic Beanstalk | Node.js, React, Redis, AWS |
+| [dsa_recommendation](https://github.com/GauravRawat369/dsa_recommendation) | DSA performance dashboard that recommends problems from your weaker topics via content-based filtering | JavaScript |
+| [learning_platform](https://github.com/GauravRawat369/learning_platform.github.io) | Student–teacher platform with course modules, live classes and live chat | JavaScript |
+| [stockutils](https://github.com/GauravRawat369/stockutils.github.io) | Stock-market news search and data visualisation (NYT API + Plotly.js) | React |
 
-- 👯 I’m looking to collaborate on [learning_platform.github.io](https://github.com/GauravRawat369/learning_platform.github.io)
+### 🛠️ Tech stack
 
-- 💬 Ask me about **I am deeply passionate about the software industry and everything related to it. I am particularly enthusiastic about system design and scalability, constantly seeking to understand how to build robust, scalable systems that can handle significant growth and usage. My love for coding and software development has led me to explore various platforms and competitions, including CodeChef, where I am a ⭐⭐⭐ star coder, and Codeforces, which I recently started using. In addition, I have honed my skills by solving more than 600 DSA questions on platforms like LeetCode and GFG. I am always eager to learn and grow in my knowledge of software development, and I am excited about the prospect of contributing to meaningful projects and collaborating with others in the tech industry. With my dedication and enthusiasm, I am confident that I can make a valuable contribution to any team in the software industry.**
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
 
-- 📫 How to reach me **yashu.rawat1903@gmail.com**
+### 📊 GitHub stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravrawat369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravrawat369&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top languages" />
+</p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravrawat369&show_icons=true&locale=en&layout=compact" alt="gauravrawat369" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravrawat369&show_icons=true&locale=en" alt="gauravrawat369" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravrawat369&" alt="gauravrawat369" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gauravrawat369&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
