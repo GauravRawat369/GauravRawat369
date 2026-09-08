@@ -63,12 +63,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravrawat369&theme=tokyonight&utcOffset=5.5" alt="Commit times" />
 </p>
 
-### 🐍 Contribution snake
+### 🚀 Contribution Galaga
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/galaga-contribution-graph.svg" />
+  <img width="100%" alt="Galaga contribution graph" src="https://raw.githubusercontent.com/GauravRawat369/GauravRawat369/output/galaga-contribution-graph-dark.svg" />
 </picture>
 
 <img width="100%" src="assets/footer.svg" alt="" />
